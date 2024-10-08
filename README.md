@@ -1,4 +1,4 @@
-dialog mit ChatGPT generieren
+dialog mit ChatGPT generieren. tts und sox muss installiert sein (via homebrew install .. zb) 
 
 
 PROMPT:
@@ -28,6 +28,12 @@ PERSON2 ...
       "person": "PERSON1",
       "text": "Genau! Ihre Familie war sehr arm, und die Stiefmutter meinte, es gäbe nicht genug zu essen für alle."
     },
+
+---
+
+Ergebnis in dialogue.json ersetzen und mit 
+python3 speak.py
+oder speak2.py starten. Egebnis ist in output.wav 
 
     
 Mehr: https://www.linkedin.com/in/guentherhaslbeck/
