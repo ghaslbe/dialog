@@ -1,0 +1,77 @@
+{
+  "dialogue": [
+    {
+      "person": "PERSON1",
+      "text": "Hast du schon mal darüber nachgedacht, wie die Zukunft des Bewerbungsprozesses aussehen könnte?"
+    },
+    {
+      "person": "PERSON2",
+      "text": "Nicht wirklich. Ist das nicht immer dasselbe? Eine Bewerbung schreiben, ein Gespräch führen, und dann warten?"
+    },
+    {
+      "person": "PERSON1",
+      "text": "Haha, weit gefehlt! Es wird viel moderner. Man spricht jetzt sogar davon, dass Künstliche Intelligenz den gesamten Prozess umkrempeln könnte."
+    },
+    {
+      "person": "PERSON2",
+      "text": "Echt? Wie genau soll das funktionieren?"
+    },
+    {
+      "person": "PERSON1",
+      "text": "Zum Beispiel könnte die Künstliche Intelligenz schon im Vorfeld Lebensläufe sichten und die besten Kandidaten auswählen. Und nicht nur das – sie könnte auch individuelle Jobangebote passgenau erstellen!"
+    },
+    {
+      "person": "PERSON2",
+      "text": "Warte mal, die Maschine sagt dir dann, welcher Job am besten zu dir passt? Das klingt nach Science-Fiction!"
+    },
+    {
+      "person": "PERSON1",
+      "text": "Ja, aber das ist noch nicht alles. Vorstellungsgespräche könnten auch digital und automatisiert ablaufen, durch eine Art virtuellen Assistenten, der dir Fragen stellt und dein Verhalten analysiert."
+    },
+    {
+      "person": "PERSON2",
+      "text": "Das klingt ja fast unheimlich. Bedeutet das, dass bald gar keine Menschen mehr im Bewerbungsprozess beteiligt sind?"
+    },
+    {
+      "person": "PERSON1",
+      "text": "Nicht ganz. Es geht eher darum, dass die Prozesse effizienter werden und Menschen mehr Zeit für die wichtigen Entscheidungen haben. Die Technik übernimmt die lästigen Aufgaben."
+    },
+    {
+      "person": "PERSON2",
+      "text": "Aber kann so eine Maschine wirklich die zwischenmenschliche Ebene in einem Bewerbungsgespräch ersetzen?"
+    },
+    {
+      "person": "PERSON1",
+      "text": "Das ist eine gute Frage. Momentan wird viel daran gearbeitet, dass die Technik so menschlich wie möglich reagiert. Es geht um mehr als nur Fakten, sie versucht auch, Empathie und emotionale Intelligenz zu zeigen."
+    },
+    {
+      "person": "PERSON2",
+      "text": "Krass! Und das Ganze passiert dann vom heimischen Wohnzimmer aus, oder wie?"
+    },
+    {
+      "person": "PERSON1",
+      "text": "Genau, du brauchst nicht mal mehr das Haus zu verlassen. Der ganze Prozess kann online stattfinden, von der Bewerbung bis zum Onboarding."
+    },
+    {
+      "person": "PERSON2",
+      "text": "Das verändert ja alles! Man muss sich dann auch an ganz neue Arbeitsweisen gewöhnen, oder?"
+    },
+    {
+      "person": "PERSON1",
+      "text": "Absolut! Es gibt sogar Unternehmen, die ihre Mitarbeiter komplett virtuell einarbeiten – mit virtuellen Räumen und digitalem Training."
+    },
+    {
+      "person": "PERSON2",
+      "text": "Das klingt alles so futuristisch. Denkst du, dass das wirklich in naher Zukunft möglich ist?"
+    },
+    {
+      "person": "PERSON1",
+      "text": "Definitiv. Einige Unternehmen machen das schon, und es wird immer mehr. Die Technik entwickelt sich rasant weiter, und wir müssen uns daran anpassen."
+    },
+    {
+      "person": "PERSON2",
+      "text": "Wahnsinn, was alles möglich wird. Da frage ich mich wirklich, wie die Arbeit in zehn Jahren aussieht!"
+    }
+  ]
+}
+
