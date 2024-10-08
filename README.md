@@ -33,7 +33,7 @@ PERSON2 ...
 
 Ergebnis in dialogue.json ersetzen und mit 
 python3 speak.py
-oder speak2.py starten. Egebnis ist in output.wav 
+oder speak2.py starten. Ergebnis ist in output.wav 
 
     
 Mehr: https://www.linkedin.com/in/guentherhaslbeck/
